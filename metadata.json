@@ -1,0 +1,13 @@
+{
+  "type": "icons",
+  "name": "Gnome",
+  "title": {
+    "en_EN": "Gnome Icons"
+  },
+  "description": {
+    "en_EN": "Gnome Icons"
+  },
+  "files": [
+    "main.css"
+  ]
+}
