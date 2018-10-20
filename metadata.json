@@ -2,10 +2,12 @@
   "type": "icons",
   "name": "Gnome",
   "title": {
-    "en_EN": "Gnome Icons"
+    "en_EN": "Gnome Icons",
+    "fr_FR": "Icônes du bureau Gnome"
   },
   "description": {
-    "en_EN": "Gnome Icons"
+    "en_EN": "Gnome Icons",
+    "fr_FR": "Icônes du bureau Gnome"
   },
   "files": [
     "main.css"
