@@ -1,6 +1,6 @@
 {
   "name": "@osjs/gnome-icons",
-  "version": "3.0.0-alpha.0",
+  "version": "4.0.0",
   "description": "OS.js v3 Gnome Icons",
   "files": [
     "dist/",
