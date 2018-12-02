@@ -3,11 +3,13 @@
   "name": "GnomeIcons",
   "title": {
     "en_EN": "Gnome Icons",
-    "fr_FR": "Icônes du bureau Gnome"
+    "fr_FR": "Icônes du bureau Gnome",
+    "sl_SI": "Ikone Gnome"
   },
   "description": {
     "en_EN": "Gnome Icons",
-    "fr_FR": "Icônes du bureau Gnome"
+    "fr_FR": "Icônes du bureau Gnome",
+    "sl_SI": "Ikone Gnome"
   },
   "files": [
     "main.css"
