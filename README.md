@@ -18,6 +18,6 @@ This is the Gnome Icon Theme module for OS.js v3
 ## Installation
 
 ```bash
-npm install --save @osjs/gnome-icons
+npm install --save --production @osjs/gnome-icons
 npm run package:discover
 ```
