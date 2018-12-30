@@ -1,5 +1,10 @@
 # Changelog for osjs-gnome-icons
 
+## 4.0.2
+
+* Updated README
+* Add Slovenian (sl_SI) translation for metadata (#2)
+
 ## 4.0.1
 
 * Added French (fr_FR) translations to metadata (#1)
