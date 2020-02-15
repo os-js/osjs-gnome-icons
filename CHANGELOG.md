@@ -1,5 +1,12 @@
 # Changelog for osjs-gnome-icons
 
+## 4.0.3
+
+* Added portuguese (pt_BR) translations to metadata (#3)
+* Updated dotfile usage
+* Updated copyright notices in preambles
+* Updated README
+
 ## 4.0.2
 
 * Updated README
