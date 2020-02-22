@@ -4,7 +4,10 @@
   "description": "OS.js v3 Gnome Icons",
   "files": [
     "dist/",
-    "metadata.json"
+    "metadata.json",
+    "CHANGELOG.md",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
